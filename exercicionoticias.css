@@ -1,0 +1,30 @@
+body {
+    background-color: #f3f3f3;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    color: #333;
+    font-size: 24px;
+}
+
+.author {
+    color: #666;
+    font-size: 14px;
+}
+
+.content {
+    color: #444;
+    font-size: 16px;
+}
+
+.image {
+    width: 100%;
+}
+
